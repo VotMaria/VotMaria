@@ -1,4 +1,4 @@
-<h1 align="center">Привет
+<h1>Привет
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Я Мария начинающий frontend-разработчик сайтов на JS, закончила школу Нетологии и вот, что я теперь умею:</h3>
 
