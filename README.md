@@ -19,5 +19,11 @@
 - Основы верстки https://drive.google.com/file/d/14SB9rmA7iPpYAOauPo4oMReVeD_3j07j/view?usp=sharing
 - JavaScript https://drive.google.com/file/d/1pY30ZcqFmonZjR1RD6SNPJXTjtzfV7Jf/view?usp=sharing
 
-**Резюме:**  
-https://docs.google.com/document/d/1DOCyH-PkQ3GFacY4XMjs539dH7k1eXRQWNlrSNKqJYA/edit?usp=sharing
+**Обо мне**  
+Я начинающий веб-разработчик сайтов. Закончила курс по frontend-разработке в Нетологии. Решила продолжить развитие карьеры в программировании, так как эта перспективная сфера, высокооплачиваемая, с возможностью работать удаленно. Рассматриваю работу стажером, младшим frontend-специалистом по созданию сайтов.
+Благодаря терпению, упорству и настойчивости, я буду развиваться и расти вместе с компанией, приближая поставленные задачи к реализации.
+
+**Контакты:**
+- почта votmariya@yandex.ru
+- telegram @Votmaria
+- резюме https://docs.google.com/document/d/1DOCyH-PkQ3GFacY4XMjs539dH7k1eXRQWNlrSNKqJYA/edit?usp=sharing
