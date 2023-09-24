@@ -15,8 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Сертификаты Нетологии:
-- [Основы верстки] (https://drive.google.com/file/d/14SB9rmA7iPpYAOauPo4oMReVeD_3j07j/view?usp=sharing)
-- [JavaScript] (https://drive.google.com/file/d/1pY30ZcqFmonZjR1RD6SNPJXTjtzfV7Jf/view?usp=sharing)
+*Сертификаты Нетологии:*
+- Основы верстки https://drive.google.com/file/d/14SB9rmA7iPpYAOauPo4oMReVeD_3j07j/view?usp=sharing
+- JavaScript https://drive.google.com/file/d/1pY30ZcqFmonZjR1RD6SNPJXTjtzfV7Jf/view?usp=sharing
 
 
