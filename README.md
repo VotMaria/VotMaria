@@ -19,4 +19,5 @@
 - Основы верстки https://drive.google.com/file/d/14SB9rmA7iPpYAOauPo4oMReVeD_3j07j/view?usp=sharing
 - JavaScript https://drive.google.com/file/d/1pY30ZcqFmonZjR1RD6SNPJXTjtzfV7Jf/view?usp=sharing
 
-
+**Резюме:**
+https://docs.google.com/document/d/1DOCyH-PkQ3GFacY4XMjs539dH7k1eXRQWNlrSNKqJYA/edit?usp=sharing
