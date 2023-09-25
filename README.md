@@ -31,6 +31,7 @@
 - telegram @Votmaria
 - резюме https://docs.google.com/document/d/1DOCyH-PkQ3GFacY4XMjs539dH7k1eXRQWNlrSNKqJYA/edit?usp=sharing
 
-  **Портфолио:**
-  - дипломная работа https://github.com/VotMaria/Diplom_Netology
-  - ДЗ JavaScript 
+**Портфолио:**
+- дипломная работа https://github.com/VotMaria/Diplom_Netology
+- ДЗ JavaScript https://github.com/VotMaria/bhj-homeworks
+                https://github.com/VotMaria/bjs-2-homeworks
