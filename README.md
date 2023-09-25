@@ -1,5 +1,6 @@
-<h1>Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Я Мария начинающий frontend-разработчик сайтов на JS, закончила школу Нетологии и вот, что я теперь знаю и умею:</h3>
+Привет
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+Я Мария начинающий frontend-разработчик сайтов на JS, закончила школу Нетологии и вот, что я теперь знаю и умею:
 
 - верстать на HTML  
 - стилизовать с помощью CSS  
