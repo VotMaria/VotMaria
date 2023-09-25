@@ -33,6 +33,5 @@
 
 **Портфолио:**
 - дипломная работа https://github.com/VotMaria/Diplom_Netology
-- ДЗ JavaScript https://github.com/VotMaria/bhj-homeworks
-  
-                https://github.com/VotMaria/bjs-2-homeworks
+- ДЗ JavaScript в браузере https://github.com/VotMaria/bhj-homeworks
+- ДЗ JavaScript основы программирования https://github.com/VotMaria/bjs-2-homeworks
