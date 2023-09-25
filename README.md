@@ -30,3 +30,7 @@
 - почта votmariya@yandex.ru
 - telegram @Votmaria
 - резюме https://docs.google.com/document/d/1DOCyH-PkQ3GFacY4XMjs539dH7k1eXRQWNlrSNKqJYA/edit?usp=sharing
+
+  **Портфолио:**
+  - дипломная работа https://github.com/VotMaria/Diplom_Netology
+  - ДЗ JavaScript 
