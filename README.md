@@ -1,4 +1,4 @@
-# Привет ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# Привет 
 ### Я Мария начинающий frontend-разработчик сайтов на JS, закончила школу Нетологии и вот, что я теперь знаю и умею:
 
 - верстать на HTML  
