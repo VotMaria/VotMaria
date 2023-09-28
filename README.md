@@ -28,6 +28,7 @@
 - резюме https://docs.google.com/document/d/1DOCyH-PkQ3GFacY4XMjs539dH7k1eXRQWNlrSNKqJYA/edit?usp=sharing
 
 **Портфолио:**
-- дипломная работа https://github.com/VotMaria/Diplom_Netology
+- дипломная работа с использованием JavaScript: https://github.com/VotMaria/Diplom_Netology
 - ДЗ JavaScript в браузере https://github.com/VotMaria/bhj-homeworks
 - ДЗ JavaScript основы программирования https://github.com/VotMaria/bjs-2-homeworks
+- итоговая работа по модулю "верстка сайта на HTML и CSS" https://github.com/VotMaria/Diplom_HTML_CSS
